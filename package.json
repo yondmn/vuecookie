@@ -1,6 +1,6 @@
 {
   "name": "vuecookie",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "operate cookie for Vue",
   "main": "index.js",
   "scripts": {
