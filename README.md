@@ -27,6 +27,6 @@ this.$cookie.set('ym', 'One month later', { expires: '1M' });
 this.$cookie.set('ym', 'One day later', { expires: '1D' });
 this.$cookie.set('ym', 'One hour later', { expires: '1h' });
 this.$cookie.set('ym', 'Ten minutes later', { expires: '10m' });
-this.$cookie.set('ym', 'Thirty seconds later', { expires: '30s' });
+this.$cookie.set('ym', 'Ten seconds later', { expires: '10s' });
 
 ```
